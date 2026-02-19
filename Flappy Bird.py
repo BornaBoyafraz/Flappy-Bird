@@ -1,4 +1,9 @@
-#Flappy Bird
+"""
+Flappy Space
+Author: Seyedborna Boyafraz
+License: MIT
+"""
+
 #press Q or Esc to Quit
 
 #LIB
@@ -183,4 +188,3 @@ while running:
 
     pygame.display.flip()
 pygame.quit()
-
