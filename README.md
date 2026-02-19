@@ -1,4 +1,4 @@
-# Flappy Space
+# Flappy Bird
 
 A modern space-themed Flappy Bird clone built with Python and Pygame.  
 Features animated backgrounds, sci-fi obstacles, sound effects, scoring, and a clean UI.
